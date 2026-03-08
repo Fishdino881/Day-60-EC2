@@ -58,15 +58,6 @@ It includes:
 
 ---
 
-##  Advantages of EC2
-
-✔ Scalable computing resources
-✔ Pay-as-you-go pricing
-✔ Flexible instance types
-✔ Easy integration with other AWS services
-
----
-
 ##  Common Use Cases
 
 * Hosting web applications
